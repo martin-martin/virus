@@ -1,0 +1,5 @@
+#!/bin/bash
+cd ~/Desktop
+touch virus
+echo "trouble ahead..." >> virus
+open virus
